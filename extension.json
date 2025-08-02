@@ -39,6 +39,9 @@
 		"Analytics": {
 			"class": "Miraheze\\MatomoAnalytics\\Specials\\SpecialAnalytics"
 		}
+		"AnalyticsOptOut": {
+			"class": "Miraheze\\MatomoAnalytics\\Specials\\SpecialAnalyticsOptOut"
+		}
 	},
 	"Hooks": {
 		"CreateWikiCreation": {
